@@ -1,7 +1,7 @@
-# ATTiny-Binary-Counter
-A simple Binary Counter circuit assembled onto a PCB
+# Progress Journal
+Here, I journal about changes and updates regarding my project.
 
-# October 19 (~1.1 hours)
+# October 19, 2026 (~1.1 hours)
 - Started Ideating
 - Came up with 3 ideas; Binary Clock/Counter, LED Cube, and Stylophone
 - Settled on Binary Counter
