@@ -18,3 +18,9 @@ Next step: Create a schematic diagram
 
 
 Next step: Create a PCB Layout
+
+# October 19, 2026 (~3.5 hours)
+- Fixed the Schematic (so many errors lol)
+- Downloaded the required footprints and applied them
+- Created and routed PCB Layout
+Next step: Finalize and polish up PCB, add edge cuts, and submit!
