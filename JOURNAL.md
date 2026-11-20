@@ -13,4 +13,8 @@ Next step: Create a schematic diagram
 - Installed KiCad
 - Installed the respective libraries I needed for my projects
 - Created and completed a circuit/wiring diagram
+
+<img width="618" height="362" alt="image" src="https://github.com/user-attachments/assets/fc1a8b23-17b4-4e13-b511-1d2f3aa369e0" />
+
+
 Next step: Create a PCB Layout
