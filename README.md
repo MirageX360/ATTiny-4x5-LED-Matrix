@@ -18,7 +18,7 @@ Checklist:
 - [x] Sanity check-in with Slack
 - [X] Finalize BOM
 - [x] Finalize PCB
-- [ ] Submit to 8-Pin Grant
+- [x] Submit to 8-Pin Grant
 - [ ] Assemble Project
 - [ ] Program Project
 - [ ] Take a video of it in action and submit it to the SlackLink
