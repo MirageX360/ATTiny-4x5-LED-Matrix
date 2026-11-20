@@ -29,8 +29,9 @@ Next step: Finalize and polish up PCB, add edge cuts, and create BOM.
 - Added Silkscreen designs, edge cuts, and mounting holes
 - Updated some footprints
 - Created BOM
-- ZERO ERRORS AND WARNING WOOHOO!!!
+- ZERO ERRORS AND WARNINGS WOOHOO!!!
 Next step: Export and upload designs to 8-Bit Grant, and submit!
 
-<img width="503" height="362" alt="image" src="https://github.com/user-attachments/assets/8e2a29c8-cef7-4918-991e-76bbd67466e0" />
+<img width="242" height="307" alt="image" src="https://github.com/user-attachments/assets/143db1cb-66e9-40a9-9b06-b5c9789ea072" />
+
 
