@@ -5,6 +5,9 @@ This Project was created for Hack Club 8-Pin Grant!
 
 Link: https://8-pin-grant.hackclub.com/
 
+<img width="364" height="416" alt="image" src="https://github.com/user-attachments/assets/c5d5d570-bb16-4172-97b2-4773a38820c5" />
+
+
 Checklist:
 
 - [x] Settle on an idea
