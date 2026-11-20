@@ -7,6 +7,7 @@ Here, I journal about changes and updates regarding my project.
 - Decided they were all too complicated so I settled on an LED Matrix
 - Researched about the circuit design, functionality and how to make one myself
 - Started coming up with a rough design sketch
+
 Next step: Create a schematic diagram
 
 # October 19, 2026 (~2.3 hours)
@@ -23,6 +24,7 @@ Next step: Create a PCB Layout
 - Fixed the Schematic (so many errors lol)
 - Downloaded the required footprints and applied them
 - Created and routed PCB Layout
+
 Next step: Finalize and polish up PCB, add edge cuts, and create BOM.
 # October 20, 2026 (~1 hour)
 - Finalized PCB
@@ -30,8 +32,12 @@ Next step: Finalize and polish up PCB, add edge cuts, and create BOM.
 - Updated some footprints
 - Created BOM
 - ZERO ERRORS AND WARNINGS WOOHOO!!!
-Next step: Export and upload designs to 8-Bit Grant, and submit!
 
 <img width="242" height="307" alt="image" src="https://github.com/user-attachments/assets/143db1cb-66e9-40a9-9b06-b5c9789ea072" />
 
+Next step: Export and upload designs to 8-Bit Grant, and submit!
 
+# October 20, 2026 - FINALLY SUBMITTED DESIGNS TO 8-BIT!!!
+- This marks the end of the fabrication journey
+
+Next step: Wait; then solder the circuit!
