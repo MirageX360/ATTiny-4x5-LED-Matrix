@@ -29,6 +29,6 @@ BOM:
 | 5mm LED | 160-LTL2R3KYD-EM-ND | 20 |
 | 100Ω Resistor | 100XBK-ND | 5 |
 | Coin Battery Holder | BS-7-ND | 1 |
-| Slide-Switch | BS-7-ND | 1 |
+| Slide-Switch | EG1903-ND | 1 |
 
 
