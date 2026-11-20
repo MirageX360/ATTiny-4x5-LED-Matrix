@@ -14,7 +14,7 @@ Checklist:
 - [x] Create PCB layout
 - [x] Sanity check-in with Slack
 - [X] Finalize BOM
-- [ ] Finalize PCB
+- [x] Finalize PCB
 - [ ] Submit to 8-Pin Grant
 - [ ] Assemble Project
 - [ ] Program Project
